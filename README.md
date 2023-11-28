@@ -34,7 +34,6 @@ We can now observe the probability of a failure correlated to the values of the 
 An imbalance was found in the dataset as the number of machine failures were found to be 3.39%.
 
 ![sbilanciamento](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/sbilanciamento.png)
-![correlazione](https://github.com/LucaSpadoni/predictive_maintenance/blob/main/img/correlazione4.png)
 ![failures](https://github.com/LucaSpadoni/predictive_maintenance/blob/main/img/fallimenti.png)
 
 <h3>Classification models used</h3>
