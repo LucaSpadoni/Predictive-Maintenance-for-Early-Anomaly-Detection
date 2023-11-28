@@ -26,7 +26,7 @@ In the first picture, we can observe the correlation between the various feature
 
 ![correlation](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/correlazione1.png)
 ![correlation](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/correlazione2.png)
-![correlation](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/results.png)
+![correlation](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/correlazione3.png)
 
 <h3>Data visualization </h3>
 An imbalance was found in the dataset as the number of machine failures were found to be 3.39%.
