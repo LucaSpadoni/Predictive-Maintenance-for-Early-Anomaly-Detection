@@ -31,9 +31,11 @@ We can now observe the probability of a failure correlated to the values of the 
 ![correlazione](https://github.com/LucaSpadoni/predictive_maintenance/blob/main/img/correlazione4.png)
 
 <h3>Data visualization </h3>
-An imbalance was found in the dataset as the number of machine failures were found to be 3.39%.
+An imbalance was found in the dataset as the number of machine failures were found to be only 3.39%.
 
 ![sbilanciamento](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/sbilanciamento.png)
+
+We can observe here the distribution of the various types of failures.
 ![failures](https://github.com/LucaSpadoni/predictive_maintenance/blob/main/img/fallimenti.png)
 
 <h3>Classification models used</h3>
