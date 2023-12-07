@@ -1,4 +1,4 @@
-# 📊 predictive_maintenance 🛠️
+# 📊 Predictive maintenance and early anomaly detection 🛠️
 <h2>A project for the Artificial Intelligence course part of the Master Degree in Computer Science at the University of Bologna.</h2>
 <br>Specific analysis of the data collected by sensors of industrial machines for the development of a Machine Learning application which exploits the correlations between various features discovered in the dataset we used, in order to provide a sufficiently valid and correct prediction model regarding a probable failure of a machine.
 
